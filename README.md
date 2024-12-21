@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Protim Roy 👋
 
-<!--
-**protimroy/protimroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, Jenkins
 
-Here are some ideas to get you started:
+## 💼 Work Experience
+- **Nexus Energy Canada** - Python Developer (September 2022 - June 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Generative AI
+- Distributed Computing
+- Cuda, Cudann
+- Cloud Computing (AWS, Azure, GCP)
+
+## 📫 How to Reach Me
+- **Email:** protimmain@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/protimr)
+- **Twitter:** [Your Twitter Handle](https://twitter.com/pr0timr)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=protimroy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protimroy&layout=compact&theme=radical)

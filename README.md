@@ -14,11 +14,11 @@
 - Distributed Computing
 - Cuda, Cudann
 - Cloud Computing
+- Blender, shaders, webgl
 
 ## 📫 How to Reach Me
 - **Email:** protimmain@gmail.com
 - **LinkedIn:** [Protim Roy](https://www.linkedin.com/in/protimr)
-- **Twitter:** [pr0timr](https://twitter.com/pr0timr)
 - **Personal Site:** [protimroy](https://www.protimroy.com)
 
 ## 📈 GitHub Stats

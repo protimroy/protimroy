@@ -20,7 +20,3 @@
 - **Email:** protimmain@gmail.com
 - **LinkedIn:** [Protim Roy](https://www.linkedin.com/in/protimr)
 - **Personal Site:** [protimroy](https://www.protimroy.com)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=protimroy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protimroy&layout=compact&theme=radical)
